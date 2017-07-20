@@ -5,7 +5,7 @@ $white = imagecolorallocate($im, 255, 255, 255);
 
 $deployment = "green";
 
-$color = imagecolorallocate($im, 0, 210, 13);
+$color = imagecolorallocate($im, 0, 0, 255);
 
 
 // Draw a filled rectangle
